@@ -80,7 +80,7 @@
 				<key>Class Name</key>
 				<string>AMScaleImagesAction</string>
 				<key>InputUUID</key>
-				<string>18510FF2-A1A2-4B27-B482-894CFD167626</string>
+				<string>F344C4F2-4F81-495D-9FEA-496464BAC9B8</string>
 				<key>Keywords</key>
 				<array>
 					<string>Image</string>
@@ -89,9 +89,9 @@
 					<string>Change</string>
 				</array>
 				<key>OutputUUID</key>
-				<string>2DE1C769-EC82-4283-8172-6CAA508162E2</string>
+				<string>DF4C89DA-5EED-4584-8F4A-9FF1A6D0163A</string>
 				<key>UUID</key>
-				<string>B97AC33B-7CCC-4EA6-BAEC-2A805DD6222B</string>
+				<string>FF663ADD-CBD3-42EE-939E-3DE055C41433</string>
 				<key>UnlocalizedApplications</key>
 				<array>
 					<string>Preview</string>
@@ -151,8 +151,6 @@
 						<string>3</string>
 					</dict>
 				</dict>
-				<key>conversionLabel</key>
-				<integer>0</integer>
 				<key>isViewVisible</key>
 				<true/>
 				<key>location</key>
