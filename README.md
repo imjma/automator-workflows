@@ -11,7 +11,7 @@ Resize images to 2048px
 > if not, please run `gem install nokogiri`
 
 Fetch images from pp.163.com (one of my favorite photo sites)
-You need paste album url into string. eg.
+You need under album page to run this service
 
     http://pp.163.com/kenziii/pp/11624042.html
 
